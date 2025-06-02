@@ -4,3 +4,5 @@ user2-commit-1
 user2-commit-2
 user2-commit-3
 user2-commit-4
+user1-commit-1
+user1-commit-2
